@@ -1,4 +1,5 @@
 // I do not yet understand why I needed to sort the final_list here and not in cpp but I will find out.
+// I understand. It has nothing to do with my code, and everything to do with the crappy build code the GFG developers/contributors have injected into their website that work differently for each language and creates complications for the innocent user.
 
 class Solution {
     Anagrams(n, string_list){
